@@ -1,4 +1,6 @@
 hello
 welcome
+<<<<<<< HEAD
 myself shero.
 bohot marungi!!!!!!!
+i will kill you
